@@ -2,6 +2,9 @@
 - Learning about Git
 - Learning about Terminal
 - Learning about other useful CS content
+
+## Messing with Markdown
+![bored](bored.jpeg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
